@@ -1,0 +1,30 @@
+{
+  "name": "env-audit",
+  "version": "1.0.1",
+  "description": "CLI to audit missing and unused environment variables in your project",
+  "main": "src/index.js",
+  "bin": {
+    "env-audit": "./bin/env-audit.js"
+  },
+  "scripts": {
+    "start": "node bin/env-audit.js"
+  },
+  "keywords": [
+    "env",
+    "cli",
+    "dotenv",
+    "audit",
+    "validation",
+    "environment variables"
+  ],
+  "author": "Krishna",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.24.1",
+    "@babel/traverse": "^7.24.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "fast-glob": "^3.3.1"
+  },
+  "type": "module"
+}
