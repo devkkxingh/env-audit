@@ -205,4 +205,4 @@ Built with:
 
 ---
 
-Made with ❤️ by [Krishna](https://github.com/krishna)
+Made with ❤️ by [Krishna](https://github.com/devkkxingh)
