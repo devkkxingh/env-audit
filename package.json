@@ -1,6 +1,6 @@
 {
   "name": "env-audit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI to audit missing and unused environment variables in your project",
   "main": "src/index.js",
   "bin": {
