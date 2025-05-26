@@ -6,6 +6,14 @@
   "bin": {
     "env-audit": "./bin/env-audit.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devkkxingh/env-audit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devkkxingh/env-audit/issues"
+  },
+  "homepage": "https://github.com/devkkxingh/env-audit#readme",
   "scripts": {
     "start": "node bin/env-audit.js"
   },
