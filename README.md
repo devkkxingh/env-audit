@@ -136,41 +136,6 @@ The tool scans the following file types:
 - A `.env` file in your project root
 - JavaScript/TypeScript project with `process.env` usage
 
-## 🛠️ Development
-
-### Local Development Setup
-
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-cd env-audit
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Run the tool locally:
-
-```bash
-npm start
-```
-
-### Project Structure
-
-```
-env-audit/
-├── bin/
-│   └── env-audit.js     # CLI entry point
-├── src/
-│   └── index.js         # Main application logic
-├── package.json         # Package configuration
-└── README.md           # Documentation
-```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
